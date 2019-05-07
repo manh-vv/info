@@ -79,7 +79,7 @@
           I’m a web developer. I have about {{ yearExp }} years of experience.
           My strong point is responsibility. I focus on delivering hight quality
           and produtivity. Sometimes, I have to trade-off them in specific
-          preriod of production. By years, I was knowledgeable different
+          preriod of development. By years, I was knowledgeable different
           projects, frameworks as well as libraries, which allow to make
           development faster. For example in server side, Serverless using AWS
           as provider which I used to deploy Graphql written in Node js.
